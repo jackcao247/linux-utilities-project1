@@ -1,3 +1,3 @@
 # Linux Utilities
 
-In this project, you will be developing your version of 2 Linux utilities, cp and ls. Make sure that you fork this repository, then clone it to your system. Do not attempt to work in this repository without forking. Follow the instructions in Project1LinuxUtilities.pdf to complete the programs. Then, submit a zip file of your repo to the Canvas assignment, and comment the link to your repository on the assignment.
+In this project, you will be developing your version of 2 Linux utilities, cp and ls. Make sure that you fork this repository, then clone it to your system. Do not attempt to work in this repository without forking. Follow the instructions in Project1LinuxUtilities.pdf to complete the programs. Make sure to test your tucp program with the provided image in this repo. Then, submit a zip file of your repo to the Canvas assignment, and comment the link to your repository on the assignment.
